@@ -1,0 +1,6 @@
+
+OUTPUT : 
+
+E:\jva\Assignment10 // Path of Current File
+
+E:\jva\Assignment9 // Path of Other File
